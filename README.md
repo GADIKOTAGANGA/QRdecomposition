@@ -60,7 +60,6 @@ QR_Decomposition(a)
 ```
 ![Screenshot (192)](https://github.com/user-attachments/assets/4b2d4d55-841a-4231-ba32-eda1f49c301d)
 
-
 ```
 
 ## Result
