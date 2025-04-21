@@ -58,7 +58,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![WhatsApp Image 2025-04-21 at 22 26 48_a0510fe8](https://github.com/user-attachments/assets/30ddd647-9064-4935-a804-1aabc69d970e)
+![Screenshot (192)](https://github.com/user-attachments/assets/4b2d4d55-841a-4231-ba32-eda1f49c301d)
+
 
 ```
 
